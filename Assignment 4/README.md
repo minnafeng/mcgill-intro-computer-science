@@ -2,7 +2,7 @@
 
 *Topics: heaps, priority queue, hash map*
 
-Imagine the emergency room (ER) of a hospital. Patients who come to the ER are assessed (triage). We associate the urgency of the patient’s problem with a single value: the priority.2 As in the heap lectures, we
+Imagine the emergency room (ER) of a hospital. Patients who come to the ER are assessed (triage). We associate the urgency of the patient’s problem with a single value: the priority. As in the heap lectures, we
 use a min heap to cater to patients with more urgent situations first. So three patients with priority values say 3, 4, 8 would be seen in that order. We use double valued priorities since we want to have flexibility,
 for example, to add a patient with priority 3.2 between patients with priorities 3 and 4. You should assume the priorities are always be strictly greater than 0.
 
