@@ -1,6 +1,6 @@
 ## Assignment 1
 
-Topics: arrays, Java Linked List, storing Java objects, strings
+*Topics: arrays, Java Linked List, storing Java objects*
 
 The class defines a memory array and a linked list of objects. These objects define the intervals in the array where the strings are stored. The class has various methods for putting, getting, and removing a string to/from the memory.
 
