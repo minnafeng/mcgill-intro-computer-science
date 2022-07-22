@@ -1,6 +1,6 @@
 ## Assignment 3
 
-Topics: Recursion, tertiary search tree (TST), Iterator
+*Topics: Recursion, tertiary search tree (TST), Iterator*
 
 You will work with a data structure that we will call a tertiary search tree or TST.1 This is like a binary
 search tree (BST), except that each node in a TST has three children rather than two. We can call the three
