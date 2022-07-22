@@ -206,7 +206,8 @@ public class TST<T extends Comparable<T>> implements Iterable<T>{
         buffer += "]";
         System.out.println(buffer);
     }
-
+    
+    // testing
     public static void main(String[] args) {
         TST<Integer> tree = new TST<>();
         tree.insert(5);
